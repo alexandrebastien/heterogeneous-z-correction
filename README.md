@@ -1,6 +1,6 @@
 # Heterogeneous Z Correction
 ImageJ plugin to correct intensity attenuation in confocal images heterogeneously.
-<img src="https://raw.githubusercontent.com/alexandrebastien/heterogeneous-z-correction/main/gui.png" align="left" width="200" >
+<img src="https://raw.githubusercontent.com/alexandrebastien/heterogeneous-z-correction/main/gui.png" align="right" width="200" >
 
 ## Notes
   * Please use Sphere_Builder.txt to generate a valid region image for testing
